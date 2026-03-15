@@ -46,7 +46,7 @@ OpenCLI needs a way to communicate with your browser. We highly recommend config
 ### Connection Method A: Playwright MCP Bridge Extension (Primary)
 
 1. Install **[Playwright MCP Bridge](https://chromewebstore.google.com/detail/playwright-mcp-bridge/mmlmfjhmonkocbjadbfplnigmagldckm)** extension in Chrome.
-2. Obtain your token from the extension settings page.
+2. Obtain your token by clicking the extension icon in the browser toolbar or from the extension settings page.
 
 **You must configure this token in BOTH your MCP configuration and system environment variables.**
 
